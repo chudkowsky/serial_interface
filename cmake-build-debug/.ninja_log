@@ -1,0 +1,20 @@
+# ninja log v6
+15	1143	7542285739176407	CMakeFiles/untitled.dir/main.cpp.obj	4dacf8ef9fdd06c9
+1144	1231	7542285750461342	untitled.exe	482dbd680b1dab33
+23	1124	7542290585564424	CMakeFiles/untitled.dir/config.cpp.obj	ec47368c79aaa8df
+13	1157	7542290585464427	CMakeFiles/untitled.dir/main.cpp.obj	4dacf8ef9fdd06c9
+17	111	7542290867951569	untitled.exe	fd7c610a3a8573e2
+19	1101	7542292304115435	CMakeFiles/untitled.dir/config.cpp.obj	ec47368c79aaa8df
+9	1138	7542292304014999	CMakeFiles/untitled.dir/main.cpp.obj	4dacf8ef9fdd06c9
+1138	1219	7542292315307687	untitled.exe	fd7c610a3a8573e2
+23	1104	7542296089871833	CMakeFiles/untitled.dir/config.cpp.obj	ec47368c79aaa8df
+23	1069	7542296353908944	CMakeFiles/untitled.dir/config.cpp.obj	ec47368c79aaa8df
+13	1095	7542296353818945	CMakeFiles/untitled.dir/main.cpp.obj	4dacf8ef9fdd06c9
+1095	1821	7542296364628067	untitled.exe	fd7c610a3a8573e2
+13	1078	7542297552590051	CMakeFiles/untitled.dir/config.cpp.obj	ec47368c79aaa8df
+1079	1162	7542297563237879	untitled.exe	fd7c610a3a8573e2
+14	1063	7542301671463515	CMakeFiles/untitled.dir/config.cpp.obj	ec47368c79aaa8df
+4	1099	7542301671363521	CMakeFiles/untitled.dir/main.cpp.obj	4dacf8ef9fdd06c9
+4	88	7542301754723075	untitled.exe	fd7c610a3a8573e2
+3	1115	7542302155642718	CMakeFiles/untitled.dir/main.cpp.obj	4dacf8ef9fdd06c9
+1115	1199	7542302166758414	untitled.exe	fd7c610a3a8573e2
